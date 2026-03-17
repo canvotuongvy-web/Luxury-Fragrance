@@ -4,7 +4,7 @@ Consumer Preference Analysis: Impact of Olfactory Notes on Product Rating
 
 [cite_start]**Domain:** E-commerce Market Research & Competitor Analysis [cite: 78]
 
-![Dashboard Screenshot]
+[Dashboard Screenshot]
 <img width="1190" height="675" alt="Screenshot 2026-03-17 235255" src="https://github.com/user-attachments/assets/969c4361-bc70-44ad-8f3e-a380c6b78749" />
 
 ## 1. Project Overview
