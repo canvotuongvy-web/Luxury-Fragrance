@@ -1,4 +1,4 @@
-# Luxury-Fragrance
+# Luxury-Fragrance: Sensory Data & Consumer Insights Impact:
 Consumer Preference Analysis: Impact of Olfactory Notes on Product Rating
 # 🌸 Decoding the Fragrance Market: Consumer Preference Analysis
 
