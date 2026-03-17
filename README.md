@@ -4,7 +4,8 @@ Consumer Preference Analysis: Impact of Olfactory Notes on Product Rating
 
 [cite_start]**Domain:** E-commerce Market Research & Competitor Analysis [cite: 78]
 
-![Dashboard Screenshot](Screenshot 2026-03-17 235255.png) 
+![Dashboard Screenshot]
+<img width="1190" height="675" alt="Screenshot 2026-03-17 235255" src="https://github.com/user-attachments/assets/969c4361-bc70-44ad-8f3e-a380c6b78749" />
 
 ## 1. Project Overview
 The global fragrance market is saturated with thousands of scents. This project doesn't just look at what sells; it dissects **why** it sells[cite: 79, 81]. By reverse-engineering community reviews from a dataset of over 70,000+ validated perfumes, this project uncovers the hidden correlations between scent profiles (accords) and true consumer consensus[cite: 82, 85].
