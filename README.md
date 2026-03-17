@@ -4,16 +4,16 @@
 
 <img width="1190" height="675" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/969c4361-bc70-44ad-8f3e-a380c6b78749" />
 
-## 🎯 1. Project Overview
+## 1. Project Overview
 The global fragrance market is saturated with thousands of scents. This project doesn't just look at what sells; it dissects **why** it sells. By reverse-engineering community reviews from a dataset of over 70,000+ validated perfumes, this project uncovers the hidden correlations between scent profiles (accords) and true consumer consensus.
 
-## 🛠 2. Tech Stack & Architecture
+## 2. Tech Stack & Architecture
 This project demonstrates an end-to-end data pipeline:
 * **Python (Data Engineering - Pandas, NumPy):** Cleaned unstructured scraped data, utilized Regex to extract accurate brand names, un-nested stringified arrays for olfactory notes, and handled missing values through strategic imputation. Reduced data size from ~70k noisy records to ~63k validated entries.
 * **SQL Server (Statistical Modeling):** Solved the "Rating Bias Dilemma" (where niche products with 5 votes outrank popular items) by engineering a **Weighted Rating Model** inspired by IMDb's Bayesian ranking. Encapsulated logic into a live SQL View `dbo.perfume_weighted`.
 * **Power BI (Data Visualization):** Built an executive-ready, interactive decision-support dashboard highlighting macro market structures and micro-level product performance.
 
-## 💎 3. Key Business Discoveries ("Aha!" Moments)
+## 3. Key Business Discoveries ("Aha!" Moments)
 
 ### 💡 Insight 1: The "Fresh" Illusion vs. The "Warm" Reality (Quantity vs. Quality)
 At first glance, the market appears dominated by Fresh and Citrus fragrances purely by production volume. However, deeper SQL analysis revealed that fragrances built around warmer, complex accords—such as **Vanilla, Amber, Tobacco, Oud, and Warm Spices**—consistently achieved the highest weighted ratings. 
@@ -22,5 +22,5 @@ At first glance, the market appears dominated by Fresh and Citrus fragrances pur
 ### 🏆 Insight 2: The True Consumer Consensus Leaderboard
 By applying the Weighted Rating model to filter out artificially inflated scores, the revised rankings surfaced a different reality. The true top performers (e.g., *Le Male Le Parfum, Stronger With You Intensely, Spicebomb Extreme*) all share a common denominator: **A refined balance of sweet, spicy, and warm woody bases**.
 
-## 🚀 4. Business Impact
+## 4. Business Impact
 For a fragrance house or e-commerce platform, insights like these help move beyond launching yet another generic citrus cologne, toward formulating fragrances with stronger potential for high ratings and lasting consumer appeal, specifically focusing on rich amber-vanilla compositions.
