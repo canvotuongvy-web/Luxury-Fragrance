@@ -24,3 +24,8 @@ By applying the Weighted Rating model to filter out artificially inflated scores
 
 ## 4. Business Impact
 For a fragrance house or e-commerce platform, insights like these help move beyond launching yet another generic citrus cologne, toward formulating fragrances with stronger potential for high ratings and lasting consumer appeal, specifically focusing on rich amber-vanilla compositions.
+
+---
+## 🔗 Interactive Showcase
+For a more detailed walkthrough and to interact with the live Power BI dashboard, please visit my full portfolio:
+👉 [**View Full Project on My Portfolio**] https://vy-data-analyst.notion.site/Hey-there-I-am-Vy-c1a4856bc181822cb1e10155843d968d?source=copy_link
