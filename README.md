@@ -2,7 +2,7 @@
 
 **Domain:** E-commerce Market Research & Competitor Analysis
 
-<img width="1190" height="675" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/969c4361-bc70-44ad-8f3e-a380c6b78749" />
+<img width="1120" height="642" alt="Screenshot 2026-03-19 042230" src="https://github.com/user-attachments/assets/96c5c66a-713d-4321-a921-d7775ed6ac10" />
 
 ## 1. Project Overview
 The global fragrance market is saturated with thousands of scents. This project doesn't just look at what sells; it dissects **why** it sells. By reverse-engineering community reviews from a dataset of over 70,000+ validated perfumes, this project uncovers the hidden correlations between scent profiles (accords) and true consumer consensus.
