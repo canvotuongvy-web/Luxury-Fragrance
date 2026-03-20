@@ -1,5 +1,7 @@
 # 🌸 Luxury Fragrance: Consumer Preference Analysis
 
+🔗 **Live Project:** https://v0-vy-luxury-fragrance.vercel.app/
+
 **Domain:** E-commerce Market Research & Competitor Analysis
 
 <img width="1120" height="642" alt="Screenshot 2026-03-19 042230" src="https://github.com/user-attachments/assets/5491c516-5681-4dba-97a5-ded4f6ccffcb" />
