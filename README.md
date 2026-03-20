@@ -1,6 +1,8 @@
 # 🌸 Luxury Fragrance: Consumer Preference Analysis
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_Here-black?style=for-the-badge&logo=vercel)](https://v0-vy-luxury-fragrance.vercel.app/)
+## 🚀 LIVE DEMO
+
+[![Live Demo](https://img.shields.io/badge/✨_LIVE_DEMO-View_Now-B8975A?style=for-the-badge)](https://v0-vy-luxury-fragrance.vercel.app/)
 
 **Domain:** E-commerce Market Research & Competitor Analysis
 
