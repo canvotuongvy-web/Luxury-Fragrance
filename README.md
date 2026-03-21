@@ -1,4 +1,4 @@
-# 🌸 Luxury Fragrance: Consumer Preference Analysis
+<img width="1294" height="738" alt="Screenshot 2026-03-21 202837" src="https://github.com/user-attachments/assets/3ad0939b-1c3f-409a-b4cc-c4607e9dbbd0" /># 🌸 Luxury Fragrance: Consumer Preference Analysis
 
 ## 🚀 LIVE PROJECT
 
@@ -6,7 +6,8 @@
 
 **Domain:** E-commerce Market Research & Competitor Analysis
 
-<img width="1120" height="642" alt="Screenshot 2026-03-19 042230" src="https://github.com/user-attachments/assets/5491c516-5681-4dba-97a5-ded4f6ccffcb" />
+<img width="1294" height="738" alt="Screenshot 2026-03-21 202837" src="https://github.com/user-attachments/assets/db093c34-2d39-4f83-a24e-1e053f55735d" />
+
 
 ## 1. Project Overview
 The global fragrance market is saturated with thousands of scents. This project doesn't just look at what sells; it dissects **why** it sells. By reverse-engineering community reviews from a dataset of over 70,000+ validated perfumes, this project uncovers the hidden correlations between scent profiles (accords) and true consumer consensus.
