@@ -1,4 +1,4 @@
-<img width="1294" height="738" alt="Screenshot 2026-03-21 202837" src="https://github.com/user-attachments/assets/3ad0939b-1c3f-409a-b4cc-c4607e9dbbd0" /># 🌸 Luxury Fragrance: Consumer Preference Analysis
+/># 🌸 Luxury Fragrance: Consumer Preference Analysis
 
 ## 🚀 LIVE PROJECT
 
